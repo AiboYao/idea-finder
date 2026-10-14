@@ -4,3 +4,8 @@
 2026-10-14 | Deezer 让用户一键过滤全 AI 生成音乐 | http://newsroom-deezer.com/2026/10/deezer-ai-music-toggle/
 2026-10-14 | 2026 年双11：跨店满减退场、立减由商家承担、补贴档位由 AI 按投放力度决定 | https://www.jiemian.com/article/15185832.html
 2026-10-14 | 欧盟委员会接受赛诺菲承诺：主导企业"贬损"竞品信息的披露约束 | https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2154
+2026-10-14 | 微信"绿泡泡短剧"：好友观看信号与按人均时长分成 | https://www.jiemian.com/article/15188270.html
+2026-10-14 | Bath & Body Works "Hype Lab"：小批量快反新品与售罄信号 | https://www.modernretail.co/marketing/bath-body-works-is-testing-smaller-batch-fragrances-through-hype-lab/
+2026-10-14 | 与辉同行"定制"模式：主播定标准、控检测与定价，品牌工厂生产 | https://www.jiemian.com/article/15190569.html
+2026-10-14 | 霸王茶姬"买一送一"：总部促销与加盟商成本分担 | https://www.jiemian.com/article/15182098.html
+2026-10-14 | 银保"三年回本"快返型产品被叫停：监管锁住显著指标 | https://www.jiemian.com/article/15185440.html
