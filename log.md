@@ -21,3 +21,8 @@
 2026-10-15 | 用 AI 使用指标发奖金：激励从产出转向工具使用 | https://www.semafor.com/article/10/14/2026/a-quarter-of-financial-firms-tie-pay-and-promotions-to-ai-proficiency-survey
 2026-10-15 | 阿里千问办公电商版：平台系 AI 代理替商家做跨平台投放 | https://www.jiemian.com/article/15191118.html
 2026-10-15 | 双11 预售退场：抖音不做预售、京东不设定金 | https://www.jiemian.com/article/15193536.html
+2026-10-15 | 出版商对 AI 爬虫"关门造稀缺"，并自建卖方代理绕过广告中介 | https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/
+2026-10-15 | 代理自带钱包按次付费：x402 微支付两年破 1.38 亿笔，87% 单笔不足 10 美分 | https://fortune.com/2026/10/14/ai-agents-shopping-spree-payments-base-blockchain-138-million-chainalysis/
+2026-10-15 | 用 AI"诱饵受害者"反诈骗，把套出的账户卖给银行与电信 | https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/
+2026-10-15 | 比亚迪滚装船队 8 艘扩到 18 艘：租船价翻倍下的自建运力与出口清库 | https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/
+2026-10-15 | 图书网售"不得低于成本倾销"写进修订稿：成本由谁认定 | https://www.bjnews.com.cn/detail/1791990308168923.html
