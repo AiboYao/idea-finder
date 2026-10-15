@@ -9,3 +9,9 @@
 2026-10-14 | 与辉同行"定制"模式：主播定标准、控检测与定价，品牌工厂生产 | https://www.jiemian.com/article/15190569.html
 2026-10-14 | 霸王茶姬"买一送一"：总部促销与加盟商成本分担 | https://www.jiemian.com/article/15182098.html
 2026-10-14 | 银保"三年回本"快返型产品被叫停：监管锁住显著指标 | https://www.jiemian.com/article/15185440.html
+2026-10-15 | 英国 CMA 处罚虚假限时优惠：倒计时从廉价话语变成承诺 | https://www.gov.uk/government/news/cma-fines-firms-6-million-for-misleading-sales-tactics
+2026-10-15 | 民航局按承运人数和客座率管航段准入：门槛指标可被在位者操纵 | https://companies.caixin.com/2026-10-15/102493548.html
+2026-10-15 | Amazon 关闭杂货合作商的独立店铺，流量转向自营与市场 | https://www.grocerydive.com/news/amazon-grocery-partners-individual-storefronts-closing/832902/
+2026-10-15 | 摩根大通只给外部 AI 代理只读权限，并提示责任转移（延续 10-14） | https://www.pymnts.com/news/artificial-intelligence/2026/jamie-dimon-slams-the-door-on-rogue-ai-agents/
+2026-10-15 | YouTube Music 上线三档 AI 自我申报标签，不影响变现（延续 10-14） | https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/
+2026-10-15 | 美国 CBP 拟要求低值进口到港即申报，并为国际邮件新设入境类型 | https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/
