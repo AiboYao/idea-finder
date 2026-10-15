@@ -15,3 +15,9 @@
 2026-10-15 | 摩根大通只给外部 AI 代理只读权限，并提示责任转移（延续 10-14） | https://www.pymnts.com/news/artificial-intelligence/2026/jamie-dimon-slams-the-door-on-rogue-ai-agents/
 2026-10-15 | YouTube Music 上线三档 AI 自我申报标签，不影响变现（延续 10-14） | https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/
 2026-10-15 | 美国 CBP 拟要求低值进口到港即申报，并为国际邮件新设入境类型 | https://www.supplychaindive.com/news/cbp-eyes-earlier-filing-deadlines-for-low-cost-imports-postal-changes/832877/
+2026-10-15 | 品牌为 AI 推荐重写内容：竞争从买流量转向供信息（GEO） | https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/
+2026-10-15 | Wirecutter 从联盟佣金转向品牌赞助：AI 截流后评测中介换了利益冲突来源 | https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/
+2026-10-15 | TikTok Shop 品牌大规模寄样筛选达人，再在佣金外加固定费 | https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/
+2026-10-15 | 用 AI 使用指标发奖金：激励从产出转向工具使用 | https://www.semafor.com/article/10/14/2026/a-quarter-of-financial-firms-tie-pay-and-promotions-to-ai-proficiency-survey
+2026-10-15 | 阿里千问办公电商版：平台系 AI 代理替商家做跨平台投放 | https://www.jiemian.com/article/15191118.html
+2026-10-15 | 双11 预售退场：抖音不做预售、京东不设定金 | https://www.jiemian.com/article/15193536.html
