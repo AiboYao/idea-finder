@@ -26,3 +26,9 @@
 2026-10-15 | 用 AI"诱饵受害者"反诈骗，把套出的账户卖给银行与电信 | https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/
 2026-10-15 | 比亚迪滚装船队 8 艘扩到 18 艘：租船价翻倍下的自建运力与出口清库 | https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/
 2026-10-15 | 图书网售"不得低于成本倾销"写进修订稿：成本由谁认定 | https://www.bjnews.com.cn/detail/1791990308168923.html
+2026-10-16 | Google Universal Cart 上线：跨零售商购物车、降价提醒与可选的车内结账 | https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/
+2026-10-16 | FTC 起诉票务经纪商 REPS：数千个借名账户绕过限购，1850 万张票赚 1.2 亿美元 | https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-ticket-broker-over-unlawful-tactics-used-buy-millions-tickets-popular-live-events
+2026-10-16 | SK 海力士子公司以在美建厂为条件，换取对华工厂的设备出口许可 | https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/
+2026-10-16 | LVMH 赢了与茉莉奶白的商标官司，却在中国季报里付出更大代价 | https://fortune.com/2026/10/15/lvmh-louis-vuitton-molly-tea-controversy-earnings
+2026-10-16 | Cal AI 的保量合同：固定报酬绑定承诺触达，达人发到达标为止 | https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/
+2026-10-16 | 天猫双11 首次卖 Token：模型厂商开旗舰店，消费者囤一种价格在跌的服务 | https://m.21jingji.com/article/20261015/herald/f276e0563eb482433ecf9ddf99e7bfe4.html
