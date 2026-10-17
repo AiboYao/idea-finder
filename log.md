@@ -32,3 +32,9 @@
 2026-10-16 | LVMH 赢了与茉莉奶白的商标官司，却在中国季报里付出更大代价 | https://fortune.com/2026/10/15/lvmh-louis-vuitton-molly-tea-controversy-earnings
 2026-10-16 | Cal AI 的保量合同：固定报酬绑定承诺触达，达人发到达标为止 | https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/
 2026-10-16 | 天猫双11 首次卖 Token：模型厂商开旗舰店，消费者囤一种价格在跌的服务 | https://m.21jingji.com/article/20261015/herald/f276e0563eb482433ecf9ddf99e7bfe4.html
+2026-10-17 | 中国拟按交付方式管 AI 技术出口：API 不算，海外本地化部署算 | https://fortune.com/2026/10/16/china-restrictions-ai-chips-solar-power-exports-security/
+2026-10-17 | Target 从 TikTok Shop 挑爆款品牌进店，并要求暂时独家 | https://www.modernretail.co/operations/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/
+2026-10-17 | GLG 加码专家核验：生成式 AI 让冒充专家变便宜 | https://www.semafor.com/article/10/16/2026/demand-for-ai-expert-brings-deepfakes-and-chatbot-impostors
+2026-10-17 | Amazon 下架的镉超标"925 银"戒指，换个卖家又上架 | https://fortune.com/2026/10/16/amazon-sterling-silver-ring-cadmium-back-new-seller/
+2026-10-17 | Compass 起诉加州最大 MLS：一天内必须挂牌的规则是否反竞争 | https://www.bloomberg.com/news/articles/2026-10-16/compass-files-suit-over-california-home-listing-service-rules
+2026-10-17 | 英国 CMA 拟认定微软商用软件具 SMS：Copilot 捆绑与许可证放在哪朵云 | https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software
