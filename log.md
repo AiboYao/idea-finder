@@ -38,3 +38,9 @@
 2026-10-17 | Amazon 下架的镉超标"925 银"戒指，换个卖家又上架 | https://fortune.com/2026/10/16/amazon-sterling-silver-ring-cadmium-back-new-seller/
 2026-10-17 | Compass 起诉加州最大 MLS：一天内必须挂牌的规则是否反竞争 | https://www.bloomberg.com/news/articles/2026-10-16/compass-files-suit-over-california-home-listing-service-rules
 2026-10-17 | 英国 CMA 拟认定微软商用软件具 SMS：Copilot 捆绑与许可证放在哪朵云 | https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software
+2026-10-19 | 法德汽车协议：放松 CO2，换来"Made in Europe"本地含量门槛 | https://www.bloomberg.com/news/articles/2026-10-16/eu-carmakers-hail-deal-on-emissions-that-opens-door-to-the-uk
+2026-10-19 | 动态定价研究：一半调价是降价，州法却给会员优惠留了口子 | https://fortune.com/2026/10/18/dynamic-pricing-surveillance-prices-consumer-data-digital-labels-algorithmic/
+2026-10-19 | Replit 把默认模型从 Anthropic 换成 OpenAI：默认位置就是上游的大订单 | https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+2026-10-19 | Bath & Body Works 节日季铺进全部 Ulta 门店，用独家款隔开渠道 | https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/
+2026-10-19 | Veritas 防伪芯片扩到珠宝与香水瓶：品牌掌握所有权记录 | https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/
+2026-10-19 | 三只羊复出：改号恢复经营、短期不给变现，并从 MCN 转向自有品牌 | https://m.thepaper.cn/newsDetail_forward_34263907
