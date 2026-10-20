@@ -50,3 +50,7 @@
 2026-10-20 | Apple 禁止"过审后变身"：隐藏功能与审核后新增功能可下架 | https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/
 2026-10-20 | 小商家用 Kalshi 事件合约对冲客流：押主队出局 | https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/
 2026-10-20 | 九部门推广"先鉴别后发货"，CCC 认证接入平台联网核查 | https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html
+2026-10-20 | 机制 | 用第三方报告的聚合分数分配机会的设计者设定异议成本，并决定异议成立后报告退出聚合还是退出展示 | 职业差评：异议成立的差评"不计分但保留"而非删除 | https://www.jiemian.com/article/15206477.html
+2026-10-20 | 新语境 | 审批方接受被审批方"无能力作恶"的事实陈述代替行为承诺，事后以有上限的罚款与撤销惩罚误导 | 欧盟对 KKR 发异议声明：无条件放行所依据的"只能双方同意改约"陈述被指误导 | https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2178
+2026-10-20 | 新语境 | 硬件按广告收入补贴售出后，买方绕开广告层的成本骤降，卖方选锁定或版本化 | 用 AI 代理把智能电视"变笨"：购后绕开广告与追踪 | https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/
+2026-10-20 | 新语境 | 同时经营下游广告的看门人以"数据由谁持有"划定隐私规则，切断第三方身份匹配 | Apple 解释 Safari 拦截名单：封禁跨站身份解析，自家广告业务扩张 | https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/
