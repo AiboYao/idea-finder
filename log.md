@@ -44,3 +44,9 @@
 2026-10-19 | Bath & Body Works 节日季铺进全部 Ulta 门店，用独家款隔开渠道 | https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/
 2026-10-19 | Veritas 防伪芯片扩到珠宝与香水瓶：品牌掌握所有权记录 | https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/
 2026-10-19 | 三只羊复出：改号恢复经营、短期不给变现，并从 MCN 转向自有品牌 | https://m.thepaper.cn/newsDetail_forward_34263907
+2026-10-20 | Muse 代理获"一律允许"后，低于底价成交并发出卖家住址 | https://fortune.com/2026/10/19/meta-muse-ai-agent-facebook-marketplace-home-address-privacy/
+2026-10-20 | FTC 有条件放行 Publicis 收购 LiveRamp：数据中介须中立，加防火墙与审计 | https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp
+2026-10-20 | Albertsons 诉 Kroger 开庭：并购"不惜代价获批"的承诺与剥离买家选择 | https://www.grocerydive.com/news/albertsons-kroger-trial-merger-supermarket-grocery/833261/
+2026-10-20 | Apple 禁止"过审后变身"：隐藏功能与审核后新增功能可下架 | https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/
+2026-10-20 | 小商家用 Kalshi 事件合约对冲客流：押主队出局 | https://fortune.com/2026/10/19/prediction-markets-insurance-risk-management-kalshi-dodgers-world-series/
+2026-10-20 | 九部门推广"先鉴别后发货"，CCC 认证接入平台联网核查 | https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html
