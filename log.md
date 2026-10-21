@@ -54,3 +54,6 @@
 2026-10-20 | 新语境 | 审批方接受被审批方"无能力作恶"的事实陈述代替行为承诺，事后以有上限的罚款与撤销惩罚误导 | 欧盟对 KKR 发异议声明：无条件放行所依据的"只能双方同意改约"陈述被指误导 | https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2178
 2026-10-20 | 新语境 | 硬件按广告收入补贴售出后，买方绕开广告层的成本骤降，卖方选锁定或版本化 | 用 AI 代理把智能电视"变笨"：购后绕开广告与追踪 | https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/
 2026-10-20 | 新语境 | 同时经营下游广告的看门人以"数据由谁持有"划定隐私规则，切断第三方身份匹配 | Apple 解释 Safari 拦截名单：封禁跨站身份解析，自家广告业务扩张 | https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/
+2026-10-21 | 机制 | 能限制同时上岗人数的委托方，按接单率分配稀缺的上岗权，而不是放开上岗、只按接单率分配高价任务的优先权 | Uber Eats 加州新版 Pro：预约制下"随时上线"成为按接单率发放的奖励 | https://www.uber.com/us/en/blog/uber-eats-pro-california/
+2026-10-21 | 新语境 | 监管者对兼营下游的瓶颈持有者，不定接入价，而是强制并存一条绕开其硬件的接入路径 | 英国 CMA 拟要求 Apple 同时开放 SE 与 HCE 两种 NFC 接入，只定收费原则 | https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone
+2026-10-21 | 新语境 | 两条渠道各收会员费的卖家，把合并会员定价在较贵一档，便宜渠道对贵渠道会员免费 | Walmart+ 与 Sam's Club Plus 合并会员定价 120 美元 | https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/
