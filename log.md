@@ -57,3 +57,7 @@
 2026-10-21 | 机制 | 能限制同时上岗人数的委托方，按接单率分配稀缺的上岗权，而不是放开上岗、只按接单率分配高价任务的优先权 | Uber Eats 加州新版 Pro：预约制下"随时上线"成为按接单率发放的奖励 | https://www.uber.com/us/en/blog/uber-eats-pro-california/
 2026-10-21 | 新语境 | 监管者对兼营下游的瓶颈持有者，不定接入价，而是强制并存一条绕开其硬件的接入路径 | 英国 CMA 拟要求 Apple 同时开放 SE 与 HCE 两种 NFC 接入，只定收费原则 | https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone
 2026-10-21 | 新语境 | 两条渠道各收会员费的卖家，把合并会员定价在较贵一档，便宜渠道对贵渠道会员免费 | Walmart+ 与 Sam's Club Plus 合并会员定价 120 美元 | https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/
+2026-10-22 | 机制 | 按货币成交额抽成并以总价比价的中介，决定是否允许卖方以买方劳务抵扣部分价格 | Airbnb 禁止房东要求房客做退房家务：货币清洁费可留，劳务抵价不行 | https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/
+2026-10-22 | 新语境 | 受益人受益后离开管辖且转售难以察觉时，发放方把条件核验从事后追责移到发放之前 | 日本免税购物 11 月起从柜台免税改为离境核验后退税 | https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping
+2026-10-22 | 新语境 | 持有买方记录的在位者把"代为执行"与"读取记录"两项权利拆开，只授予执行权 | Walmart Agent Gateway：代理可下单、可设限额，但看不到个人信息与购买历史 | https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+2026-10-22 | 新语境 | 排序中介把位置以佣金增量连续出售并混入自然排序，监管要求把付费成分标为广告 | 欧盟对 Booking.com 启动 DSA 正式程序：假房源、钓鱼与"加佣金换排名"是否标为广告 | https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act
