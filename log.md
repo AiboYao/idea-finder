@@ -60,3 +60,4 @@
 2026-10-22 | 故事 | 不愿在某渠道承担质量的卖方，对以其名义转售的未授权渠道按组织度分级处置：封堵有组织的，放任分散的 | In-N-Out 不做外送、起诉 DoorDash，却放任 TaskRabbit 跑腿与 Marketplace 散户代买 | https://fortune.com/2026/10/21/in-n-out-delivery-taskrabbit-facebook-marketplace/
 2026-10-22 | 故事 | 按货币成交额抽成并以总价比价的中介，决定是否允许卖方以买方劳务抵扣部分价格 | Airbnb 禁止房东要求房客做退房家务：货币清洁费可留，劳务抵价不行 | https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/
 2026-10-22 | 新载体 | 受益人受益后离开管辖且转售难以察觉时，发放方把条件核验从事后追责移到发放之前 | 日本免税购物 11 月起从柜台免税改为离境核验后退税 | https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping
+2026-10-23 | 新载体 | 当技术把低类型生产商品的成本压到零时，核验方把要求的信号从商品本身移到技术未拉平成本的副产品上 | Etsy 禁 AI 生成的图纸与食谱，并要求卖家展示用说明实际做出的实物照片 | https://www.etsy.com/seller-handbook/article/1522733284810
