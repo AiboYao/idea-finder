@@ -63,3 +63,4 @@
 2026-10-23 | 新载体 | 当技术把低类型生产商品的成本压到零时，核验方把要求的信号从商品本身移到技术未拉平成本的副产品上 | Etsy 禁 AI 生成的图纸与食谱，并要求卖家展示用说明实际做出的实物照片 | https://www.etsy.com/seller-handbook/article/1522733284810
 2026-10-24 | 新载体 | 被兼任分销商与投入品供应方的对手推出替代品时，在位者不降价，而是绕开分销环节直供，并把下一代产品免费捆绑给承诺继续使用的买方 | FICO 对承诺使用的贷款机构维持 10 美元并免费捆绑 10T：分销商三大征信局拥有对手 VantageScore，监管已抹平下游费用差 | https://investors.fico.com/news-releases/news-release-details/fico-holds-mortgage-score-pricing-10-lenders-enrolled-preferred
 2026-10-25 | 新载体 | 以固定售价承诺配缓冲库存的卖方，在买方预见到自身到手成本将跳升时，库存被买方的提前购买掏空 | 魁北克枫糖浆战略储备因美国买家抢在关税前囤货而将在 2027 年 2 月耗尽 | https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/
+2026-10-26 | 新载体 | 同时卖付费排序的中介，为新开的推荐渠道承诺不卖排序、只在成交后抽成，抽成高于原渠道，并补贴该渠道的买方 | 豆包把 AI 对话框做成独立成交渠道：不收广告费、酒店类目综合费率约 12% 对抖音主站 8%，叠加豆包补贴；千问转向商家侧工具 | https://www.nbd.com.cn/articles/2026-10-23/4614334.html
