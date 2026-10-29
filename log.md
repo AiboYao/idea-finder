@@ -64,3 +64,4 @@
 2026-10-24 | 新载体 | 被兼任分销商与投入品供应方的对手推出替代品时，在位者不降价，而是绕开分销环节直供，并把下一代产品免费捆绑给承诺继续使用的买方 | FICO 对承诺使用的贷款机构维持 10 美元并免费捆绑 10T：分销商三大征信局拥有对手 VantageScore，监管已抹平下游费用差 | https://investors.fico.com/news-releases/news-release-details/fico-holds-mortgage-score-pricing-10-lenders-enrolled-preferred
 2026-10-25 | 新载体 | 以固定售价承诺配缓冲库存的卖方，在买方预见到自身到手成本将跳升时，库存被买方的提前购买掏空 | 魁北克枫糖浆战略储备因美国买家抢在关税前囤货而将在 2027 年 2 月耗尽 | https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/
 2026-10-26 | 新载体 | 同时卖付费排序的中介，为新开的推荐渠道承诺不卖排序、只在成交后抽成，抽成高于原渠道，并补贴该渠道的买方 | 豆包把 AI 对话框做成独立成交渠道：不收广告费、酒店类目综合费率约 12% 对抖音主站 8%，叠加豆包补贴；千问转向商家侧工具 | https://www.nbd.com.cn/articles/2026-10-23/4614334.html
+2026-10-29 | 新载体 | 以可被代理人廉价抬高、且抬高时直接消耗委托人资源的输入指标做诊断，同时公开承诺不以它发奖 | Amazon 备忘录：代币数与代码行数是"深度有缺陷"的指标、tokenmaxxing 违背节俭，但仍比较团队内 10% 与 90% 分位的 AI 使用者；Ralph Lauren 把 AI 指标写进高管奖金 | https://fortune.com/2026/10/28/amazon-token-maxxing-ai-work/
